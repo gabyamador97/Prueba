@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap');
+body{
+	font-family: 'Lato';
+	font-size: 14px;
+	color: #666;
+	background-image: url("../img/bg_pic2.jpg");
+	background-repeat: no-repeat;
+}
+header{
+	background-color: #202020;
+}
+footer{
+	background-color: #fff;
+	padding: 25px 0;
+	border-top: 1px solid #f6f6f6;
+	color: #333;
+	text-align: center;
+}
+footer img {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+.carousel-caption {
+	transform: translate(-50%, -50%);
+	top: 50%;
+	left: 50%;
+}
+	
+h1,h2,h3,h4{
+	font-family: 'lato';
+}
+.titulo {
+	font-family: 'Lato';
+	color: #FFFFFF;
+	font-weight: 900;
+	text-align: center;
+	font-size: 80px;
+}
+
+
+.subtitulo {
+	font-family: 'Lato';
+	color: #FF9306;
+	font-weight: 200;
+	text-align: center;
+	font-size: 80px;
+	
+}
+
+.oven {
+	background-image: url("../img/picture1.jpg");
+	
+}
+
+.btn-naranja {
+	background-color: #FF9306;
+}
